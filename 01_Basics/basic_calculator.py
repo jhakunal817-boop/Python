@@ -61,8 +61,8 @@ else:                       #else loop is used
 # Enter second number: 0
 # Error: Division by zero is not allowed.
 
-===== Basic Calculator =====
-Enter first number: 12
-Enter operator (+, -, *, /): %
-Enter second number: 5
-Invalid operator! Please use +, -, *, or /.
+# ===== Basic Calculator =====
+# Enter first number: 12
+# Enter operator (+, -, *, /): %
+# Enter second number: 5
+# Invalid operator! Please use +, -, *, or /.
